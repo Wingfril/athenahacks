@@ -1,0 +1,428 @@
+
+Honey 
+
+ISSN: 1949-1492
+
+Released March 22, 2017, by the National Agricultural Statistics Service 
+(NASS), Agricultural Statistics Board, United States Department of 
+Agriculture (USDA).
+
+Special Note
+
+Beginning with this publication, new tables have been added with estimates on 
+expenditures, incomes, and other data related to beekeeping. Please contact 
+the Livestock Branch at (202) 720-3570 or email at HQ_SD_LB@nass.usda.gov 
+with any questions or concerns. 
+
+United States Honey Production Up 3 Percent for Operations with Five or More 
+Colonies in 2016
+
+United States honey production in 2016 from producers with five or more 
+colonies totaled 162 million pounds, up 3 percent from 2015. There were 2.78 
+million colonies from which honey was harvested in 2016, up 4 percent from 
+2015. Yield of honey harvested per colony averaged 58.3 pounds, down 
+1 percent from the 58.9 pounds in 2015. Colonies which produced honey in more 
+than one State were counted in each State where the honey was produced. 
+Therefore, at the United States level yield per colony may be understated, 
+but total production would not be impacted. Colonies were not included if 
+honey was not harvested. Producer honey stocks were 41.3 million pounds on 
+December 15, 2016, down 2 percent from a year earlier. Stocks held by 
+producers exclude those held under the commodity loan program.
+
+Operations with Less than Five Colonies Produced 766 Thousand Pounds of Honey 
+in 2016
+
+United States honey production in 2016 from producers with less than five 
+colonies totaled 766 thousand pounds, up 6 percent from 2015. There were 24 
+thousand colonies from which honey was harvested in 2016, up 4 percent from 
+2015. The average yield was 31.9 pounds per colony in 2016, up 2 percent from 
+the previous year. This yield is 26.4 pounds less than what was harvested per 
+colony on operations with five or more colonies.
+
+Honey Prices Down Slightly for Operations with Five or More Colonies in 2016
+
+United States honey prices decreased during 2016 to 207.5 cents per pound, 
+down slightly from 208.3 cents per pound in 2015. United States and State 
+level prices reflect the portions of honey sold through cooperatives, 
+private, and retail channels. Prices for each color class are derived by 
+weighting the quantities sold for each marketing channel. Prices for the 2015 
+crop reflect honey sold in 2015 and 2016. Some 2015 honey was sold in 2016, 
+which caused some revisions to the 2015 honey prices. Price data was not 
+collected for operations with less than five colonies. 
+
+Price Paid per Queen was 19 Dollars for Operations with Five or More Colonies 
+in 2016
+
+For operations with five or more colonies, the average prices paid in 2016 
+for honey bee queens, packages, and nucs were $19, $89, and $117 
+respectively. The average prices paid in 2016 for operations with less than 
+five colonies were $33 per queen, $109 per package, and $122 per nuc. 
+Comparable data is not available for 2015. For operations with five more 
+colonies, pollination income for 2016 was $338 million, down 1 percent from 
+2015. Other income from honey bees for operations with five or more colonies 
+in 2016 was $149 million, down 10 percent from 2015. These estimates along 
+with expenditure and apiary worker information can be found on pages 4 and 5 
+of this report.
+
+Number of Colonies, Yield, Production, Stocks, Price, and Value - States and United States: 2015
+[Operations with 5 or more colonies that also qualify as a farm. Colonies which produced honey in more than
+one State were counted in each State]
+------------------------------------------------------------------------------------------------------------
+                      :    Honey     :   Yield   :               :               :  Average  :    Value     
+         State        :  producing   :    per    :  Production   :    Stocks     : price per :      of      
+                      : colonies 1/  :  colony   :               :December 15 2/ : pound 3/  :production 4/ 
+------------------------------------------------------------------------------------------------------------
+                      :    1,000        pounds        ---- 1,000 pounds ----         cents    1,000 dollars 
+                      :                                                                                     
+Alabama ..............:        7          47              329             13         383           1,260    
+Arizona ..............:       26          49            1,274            306         203           2,586    
+Arkansas .............:       24          72            1,728            121         206           3,560    
+California ...........:      275          30            8,250          1,485         203          16,748    
+Colorado .............:       29          51            1,479            399         226           3,343    
+Florida ..............:      220          54           11,880            832         197          23,404    
+Georgia ..............:       69          40            2,760            221         243           6,707    
+Hawaii ...............:       14         102            1,428             71         191           2,727    
+Idaho ................:       89          32            2,848          1,082         193           5,497    
+Illinois .............:        8          51              408            155         466           1,901    
+                      :                                                                                     
+Indiana ..............:        6          53              318            165         323           1,027    
+Iowa .................:       36          50            1,800            990         220           3,960    
+Kansas ...............:        8          36              288            107         350           1,008    
+Kentucky .............:        5          46              230             55         404             929    
+Louisiana ............:       44          99            4,356            348         195           8,494    
+Maine ................:       10          47              470             47         543           2,552    
+Michigan .............:       90          58            5,220          1,984         244          12,737    
+Minnesota ............:      122          68            8,296          2,157         184          15,265    
+Mississippi ..........:       15          83            1,245             87         240           2,988    
+Missouri .............:       10          52              520             52         355           1,846    
+                      :                                                                                     
+Montana ..............:      146          83           12,118          3,757         194          23,509    
+Nebraska .............:       57          48            2,736          1,450         204           5,581    
+New Jersey ...........:       12          27              324            207         420           1,361    
+New York .............:       58          62            3,596            899         294          10,572    
+North Carolina .......:       12          45              540            103         451           2,435    
+North Dakota .........:      490          74           36,260          9,428         180          65,268    
+Ohio .................:       17          50              850            357         360           3,060    
+Oregon ...............:       71          38            2,698            809         243           6,556    
+Pennsylvania .........:       17          53              901            225         362           3,262    
+South Carolina .......:       14          67              938             38         410           3,846    
+                      :                                                                                     
+South Dakota .........:      290          66           19,140          9,379         179          34,261    
+Tennessee ............:        7          59              413             78         404           1,669    
+Texas ................:      126          66            8,316          1,164         210          17,464    
+Utah .................:       27          42            1,134            147         192           2,177    
+Vermont ..............:        5          52              260             62         423           1,100    
+Virginia .............:        6          38              228             50         553           1,261    
+Washington ...........:       73          44            3,212          1,221         180           5,782    
+West Virginia ........:        5          35              175             32         444             777    
+Wisconsin ............:       52          67            3,484          1,603         243           8,466    
+Wyoming ..............:       38          77            2,926            146         190           5,559    
+                      :                                                                                     
+Other States 5/ 6/ ...:       30          39            1,168            371         524           6,102    
+                      :                                                                                     
+United States 6/ 7/ ..:    2,660          58.9        156,544         42,203         208.3       326,081    
+------------------------------------------------------------------------------------------------------------
+1/ Honey producing colonies are the maximum number of colonies from which honey was harvested during the    
+   year. It is possible to harvest honey from colonies which did not survive the entire year.               
+2/ Stocks held by producers.                                                                                
+3/ Average price per pound based on expanded sales.                                                         
+4/ Value of production is equal to production multiplied by average price per pound.                        
+5/ Alaska, Connecticut, Delaware, Maryland, Massachusetts, Nevada, New Hampshire, New Mexico, Oklahoma, and 
+   Rhode Island not published separately to avoid disclosing data for individual operations.                
+6/ Due to rounding, total colonies multiplied by total yield may not exactly equal production.              
+7/ United States value of production will not equal summation of States.                                    
+
+Number of Colonies, Yield, Production, Stocks, Price, and Value - States and United States: 2016
+[Operations with 5 or more colonies that also qualify as a farm. Colonies which produced honey in more than
+one State were counted in each State]
+------------------------------------------------------------------------------------------------------------
+                      :    Honey     :   Yield   :               :               :  Average  :    Value     
+         State        :  producing   :    per    :  Production   :    Stocks     : price per :      of      
+                      : colonies 1/  :  colony   :               :December 15 2/ : pound 3/  :production 4/ 
+------------------------------------------------------------------------------------------------------------
+                      :    1,000        pounds        ---- 1,000 pounds ----         cents    1,000 dollars 
+                      :                                                                                     
+Alabama ..............:        7          52              364             33         337           1,227    
+Arizona ..............:       27          46            1,242            261         199           2,472    
+Arkansas .............:       24          69            1,656             99         184           3,047    
+California ...........:      310          36           11,160          2,009         200          22,320    
+Colorado .............:       32          40            1,280            282         217           2,778    
+Florida ..............:      215          50           10,750            538         244          26,230    
+Georgia ..............:       96          39            3,744            899         269          10,071    
+Hawaii ...............:       16         113            1,808            127         231           4,176    
+Idaho ................:       97          34            3,298          1,253         172           5,673    
+Illinois .............:       10          48              480             77         539           2,587    
+                      :                                                                                     
+Indiana ..............:        7          62              434            208         336           1,458    
+Iowa .................:       37          48            1,776            746         207           3,676    
+Kansas ...............:        7          48              336             54         297             998    
+Kentucky .............:        5          46              230             48         402             925    
+Louisiana ............:       50          86            4,300            301         193           8,299    
+Maine ................:       12          34              408             65         321           1,310    
+Michigan .............:       89          60            5,340          1,709         225          12,015    
+Minnesota ............:      124          59            7,316          1,390         164          11,998    
+Mississippi ..........:       19          85            1,615            113         174           2,810    
+Missouri .............:        8          62              496             30         218           1,081    
+                      :                                                                                     
+Montana ..............:      159          77           12,243          3,183         175          21,425    
+Nebraska .............:       48          46            2,208            640         188           4,151    
+New Jersey ...........:       12          27              324            198         669           2,168    
+New York .............:       64          57            3,648          1,167         320          11,674    
+North Carolina .......:       12          37              444             89         461           2,047    
+North Dakota .........:      485          78           37,830          6,809         173          65,446    
+Ohio .................:       15          79            1,185            664         384           4,550    
+Oregon ...............:       74          35            2,590            622         206           5,335    
+Pennsylvania .........:       19          50              950            266         315           2,993    
+South Carolina .......:       16          45              720             36         450           3,240    
+                      :                                                                                     
+South Dakota .........:      280          71           19,880         12,127         174          34,591    
+Tennessee ............:        6          55              330             69         478           1,577    
+Texas ................:      133          70            9,310          2,607         196          18,248    
+Utah .................:       31          32              992            169         191           1,895    
+Vermont ..............:        6          52              312             69         282             880    
+Virginia .............:        5          38              190             30         582           1,106    
+Washington ...........:       84          35            2,940            412         188           5,527    
+West Virginia ........:        5          32              160             43         373             597    
+Wisconsin ............:       54          62            3,348          1,205         244           8,169    
+Wyoming ..............:       40          68            2,720            190         176           4,787    
+                      :                                                                                     
+Other States 5/ 6/ ...:       35          44            1,525            416         426           6,497    
+                      :                                                                                     
+United States 6/ 7/ ..:    2,775          58.3        161,882         41,253         207.5       335,905    
+------------------------------------------------------------------------------------------------------------
+1/ Honey producing colonies are the maximum number of colonies from which honey was harvested during the    
+   year. It is possible to harvest honey from colonies which did not survive the entire year.               
+2/ Stocks held by producers.                                                                                
+3/ Average price per pound based on expanded sales.                                                         
+4/ Value of production is equal to production multiplied by average price per pound.                        
+5/ Alaska, Connecticut, Delaware, Maryland, Massachusetts, Nevada, New Hampshire, New Mexico, Oklahoma, and 
+   Rhode Island not published separately to avoid disclosing data for individual operations.                
+6/ Due to rounding, total colonies multiplied by total yield may not exactly equal production.              
+7/ United States value of production will not equal summation of States.                                    
+
+Number of Colonies, Yield, and Production - United States: 2015 and 2016
+[Operations with less than 5 colonies that also qualify as a farm]
+----------------------------------------------------------------------------------------------------------
+                      :           Honey           :           Yield           :             :             
+         State        :         producing         :            per            :        Production         
+                      :        colonies 1/        :          colony           :             :             
+                      :-----------------------------------------------------------------------------------
+                      :    2015     :    2016     :    2015     :    2016     :    2015     :    2016     
+----------------------------------------------------------------------------------------------------------
+                      :    1,000         1,000        pounds        pounds     1,000 pounds  1,000 pounds 
+                      :                                                                                   
+United States 2/ .....:     23            24           31.3          31.9           720           766     
+----------------------------------------------------------------------------------------------------------
+1/ Honey producing colonies are the maximum number of colonies from which honey was harvested during the  
+   year. It is possible to harvest honey from colonies which did not survive the entire year.             
+2/ Due to rounding, total colonies multiplied by total yield may not exactly equal production.            
+
+Honey Price by Color Class - United States: 2015 and 2016
+[Operations with 5 or more colonies that also qualify as a farm]
+-----------------------------------------------------------------------------------------------------------
+                                   :                                 Price                                 
+                                   :-----------------------------------------------------------------------
+            Color class            :   Co-op and private   :        Retail         :          All          
+                                   :-----------------------------------------------------------------------
+                                   :   2015    :   2016    :   2015    :   2016    :   2015    :   2016    
+-----------------------------------------------------------------------------------------------------------
+                                   :                            cents per pound                            
+                                   :                                                                       
+Water white, extra white, white ...:   188.6       185.1       305.4       490.8       190.6       192.9   
+                                   :                                                                       
+Extra light amber .................:   202.5       187.7       411.8       377.5       213.2       195.1   
+                                   :                                                                       
+Light amber, amber, dark amber ....:   200.4       189.4       412.1       436.4       234.7       224.8   
+                                   :                                                                       
+All other honey, area specialties .:   284.9       244.0       656.6       792.8       351.5       385.6   
+                                   :                                                                       
+All honey .........................:   195.0       188.1       409.9       462.0       208.3       207.5   
+-----------------------------------------------------------------------------------------------------------
+
+Queen, Package, and Nuc Prices Paid - United States: 2016
+[Operations that qualify as a farm. Represents prices paid by operations,
+regardless of whether honey produced. For more estimates on the total
+number of colonies, see the "Honey Bee Colonies" report]
+---------------------------------------------------------------------------
+          United States          :    Queen    :   Package   :     Nuc     
+---------------------------------------------------------------------------
+                                 : dollars per   dollars per   dollars per 
+                                 :                                         
+Operations with                  :                                         
+  5 or more colonies ............:     19             89           117     
+  Less than 5 colonies ..........:     33            109           122     
+---------------------------------------------------------------------------
+
+Pollination and Other Income - United States: 2015 and 2016
+[Operations that qualify as a farm. Represents incomes from the total number of colonies,
+regardless of whether honey was harvested. For more estimates on the total number of colonies,
+see the "Honey Bee Colonies" report]
+-------------------------------------------------------------------------------------------------
+          United States          :      Pollination income       :        Other income 1/        
+                                 :---------------------------------------------------------------
+                                 :     2015      :     2016      :     2015      :     2016      
+-------------------------------------------------------------------------------------------------
+                                 :    ---- 1,000 dollars ----         ---- 1,000 dollars ----    
+                                 :                                                               
+Operations with                  :                                                               
+  5 or more colonies ............:    340,275         337,834         165,732         148,523    
+  Less than 5 colonies ..........:         70             180             103              62    
+-------------------------------------------------------------------------------------------------
+1/ Includes sales of queens, queen cells, beeswax, propolis, etc.                                
+
+Expenditures for Honey Bee Operations - United States: 2015 and 2016
+[Operations that qualify as a farm. Represents expenditures on the total number of
+colonies, regardless of whether honey was harvested. For more estimates on the total
+number of colonies, see the "Honey Bee Colonies" report]
+------------------------------------------------------------------------------------------
+                              :     5 or more colonies      :    Less than 5 colonies     
+         Expenditures         :-----------------------------------------------------------
+                              :     2015     :     2016     :     2015     :     2016     
+------------------------------------------------------------------------------------------
+                              :1,000 dollars  1,000 dollars  1,000 dollars  1,000 dollars 
+                              :                                                           
+Varroa control and treatment .:    16,128         16,042          264            262      
+Other colony issues 1/ .......:     6,371          6,647          100             82      
+Feed 2/ ......................:    50,283         50,307          559            482      
+Foundation ...................:     9,461          7,294          400            320      
+Hives/woodenware .............:    11,156          9,014          719            706      
+------------------------------------------------------------------------------------------
+1/ Includes Nosema, tracheal mites, foulbrood, paralysis, Kashmir, cloudy wing, etc.      
+2/ Includes syrup, sugar water, honey, pollen patties, and other feeds.                   
+
+Apiary Workers - United States: 2015 and 2016
+[Operations that qualify as a farm. Represents number of paid
+and unpaid workers that worked with colonies, regardless of
+whether honey was harvested. For more estimates on the total
+number of colonies, see the "Honey Bee Colonies" report]
+-----------------------------------------------------------------
+          United States          :        Apiary workers         
+                                 :-------------------------------
+                                 :     2015      :     2016      
+-----------------------------------------------------------------
+                                 :            workers            
+                                 :                               
+  5 or more colonies ............:    23,000          24,000     
+  Less than 5 colonies ..........:    19,000          19,000     
+-----------------------------------------------------------------
+
+Statistical Methodology
+
+Survey Procedures: Data for honey producing operations are collected from a 
+stratified sample of all known operations that also meet USDA's definition of 
+a farm. To qualify as a farm, an operation must be any place from which 
+$1,000 or more of agricultural products were produced and sold, or normally 
+would have been sold, during the year. NASS Regional Field Offices maintain a 
+list of all known operations and use known sources of operations to update 
+their lists. All sampled operations are mailed a questionnaire and given 
+adequate time to respond by mail or electronic data reporting (EDR). Those 
+that do not respond by mail or EDR are telephoned or possibly enumerated in 
+person. Prices are collected by color class and marketing channel from 
+operations with five or more colonies.
+
+Estimation Procedures: Sound statistical methodology is employed to derive 
+the estimates from reported data. All data are analyzed for unusual values. 
+Data from each operation are compared to their own past operating profile and 
+to trends from similar operations. Data for missing operations were estimated 
+based on similar operations or historical data. State offices prepare these 
+estimates by using a combination of survey indications and historic trends. 
+Prices for each color class are derived by weighting the quantities sold for 
+each marketing channel. Individual State estimates are reviewed by the 
+Agricultural Statistics Board for reasonableness.
+
+Revision Policy: The previous year's estimates are subject to revision when 
+current year's estimates are made. Revisions are the result of late reports 
+or corrected data. Price revisions can be the result of additional sales 
+reported the following year. Estimates will also be reviewed after data from 
+the 5-year Census of Agriculture are available. No revisions will be made 
+after that date.
+
+Reliability: Since all operations are not included in the sample, survey 
+estimates are subject to sampling variability. Survey results are also 
+subject to non-sampling errors such as omissions, duplication, and mistakes 
+in reporting, recording, and processing the data. While these errors cannot 
+be measured directly, they are minimized through strict quality controls in 
+the data collection process and a careful review of all reported data for 
+consistency and reasonableness.
+
+To assist in evaluating the reliability of the estimates in this report, the 
+"Root Mean Square Error" is shown for selected items in the following table. 
+The "Root Mean Square Error" is a statistical measure based on past 
+performance and is computed using the differences between first and final 
+estimates. The "Root Mean Square Error" for honey producing colonies over the 
+past 10 years is 1.3 percent. This means that chances are 2 out of 3 that the 
+final estimate will not be above or below the current estimate of 
+2.78 million colonies by more than 1.3 percent. Chances are 9 out of 10 that 
+the difference will not exceed 2.4 percent.
+
+Reliability of Honey Estimates
+[Based on data for the past 10 years]
+--------------------------------------------------------------------------------------------------------------------------
+                              :  Root mean   :  90 percent  :        Difference between first and latest estimate         
+                              : square error :  confidence  :         :         :         :               :               
+                              :              :    level     :-------------------------------------------------------------
+             Item             :              :              :         :         :         :             Years             
+                              :              :              :         :         :         :-------------------------------
+                              :              :              : Average :Smallest : Largest : Below latest  : Above latest  
+--------------------------------------------------------------------------------------------------------------------------
+                              :   percent        percent       1,000     1,000     1,000          ----- number ----       
+                              :                                                                                           
+Honey producing colonies .....:     1.3            2.4            17       -          85          5               1       
+                              :                                                                                           
+Honey production .............:     1.3            2.4         1,080       -       4,796          4               2       
+--------------------------------------------------------------------------------------------------------------------------
+-  Represents zero.                                                                                                       
+
+Information Contacts
+
+Listed below are the commodity specialists in the Livestock Branch of the National Agricultural Statistics 
+Service to contact for additional information. E-mail inquiries may be sent to nass@nass.usda.gov
+
+Dan Kerestes, Chief, Livestock Branch ....................................................... (202) 720-3570
+
+Bruce Boess, Head, Poultry and Specialty Commodities Section ................................ (202) 720-4447
+   Aaron Cosgrove - Catfish Production, Egg Products, Poultry Slaughter, Trout Production,
+        Turkey Hatchery, Turkeys Raised...................................................... (202) 690-3237
+   Alissa Cowell-Mytar - Cold Storage ....................................................... (202) 720-4751
+   Tom Kruchten - Census of Aquaculture ..................................................... (202) 690-4870
+   Kim Linonis - Layers, Eggs ............................................................... (202) 690-8632
+   Joshua O'Rear - Cost of Pollination, Honey, Honey Bee Colonies............................ (202) 690-3676
+   Miste Salmon - Broiler Hatchery, Chicken Hatchery, Mink .................................. (202) 720-3244
+
+Access to NASS Reports
+
+For your convenience, you may access NASS reports and products the following 
+ways:
+
+ 	All reports are available electronically, at no cost, on the NASS web 
+site: www.nass.usda.gov
+
+ 	Both national and state specific reports are available via a free e-
+mail subscription. To set-up this free subscription, visit 
+www.nass.usda.gov and click on "National" or "State" in upper right 
+corner above "search" box to create an account and select the reports 
+you would like to receive.
+
+For more information on NASS surveys and reports, call the NASS Agricultural 
+Statistics Hotline at (800) 727-9540, 7:30 a.m. to 4:00 p.m. ET, or e-mail: 
+nass@nass.usda.gov. 
+  
+The U.S. Department of Agriculture (USDA) prohibits discrimination against 
+its customers, employees, and applicants for employment on the basis of race, 
+color, national origin, age, disability, sex, gender identity, religion, 
+reprisal, and where applicable, political beliefs, marital status, familial 
+or parental status, sexual orientation, or all or part of an individual's 
+income is derived from any public assistance program, or protected genetic 
+information in employment or in any program or activity conducted or funded 
+by the Department. (Not all prohibited bases will apply to all programs 
+and/or employment activities.) 
+If you wish to file a Civil Rights program complaint of discrimination, 
+complete the USDA Program Discrimination Complaint Form (PDF), found online 
+at http://www.ascr.usda.gov/complaint_filing_cust.html, or at any USDA 
+office, or call (866) 632-9992 to request the form. You may also write a 
+letter containing all of the information requested in the form. Send your 
+completed complaint form or letter to us by mail at U.S. Department of 
+Agriculture, Director, Office of Adjudication, 1400 Independence Avenue, 
+S.W., Washington, D.C. 20250-9410, by fax (202) 690-7442 or email at 
+program.intake@usda.gov. 
+
