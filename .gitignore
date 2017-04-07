@@ -1,0 +1,8 @@
+# Python
+.Python
+
+# virtualenv
+bin/
+include/
+lib/
+pip-selfcheck.json
