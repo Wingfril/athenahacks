@@ -15,7 +15,7 @@ def display(data):
             [1.0, 'rgb(0,102,51)']]
     text = []
     text = data['state'] + '<br>' +\
-        'Population: '+data['pop']+
+        'Population: '+ data['pop']+
 
     data = [ dict(
         type='choropleth',
