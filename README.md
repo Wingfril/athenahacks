@@ -6,6 +6,7 @@ HOW TO PUSH FROM GITHUB:
 
 
 [from inside directory]
+git add .
 git commit -m "[message]"
 git push
 
