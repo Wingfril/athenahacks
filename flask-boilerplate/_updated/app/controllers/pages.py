@@ -20,6 +20,6 @@ def about():
 
 
 @blueprint.route('/login')
-def login():
-    form = LoginForm(request.form)
+def graph():
+    form = GraphForm(request.form)
     return render_template('forms/graph.html', form=form)

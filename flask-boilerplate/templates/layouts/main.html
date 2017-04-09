@@ -54,7 +54,7 @@
           <ul class="nav navbar-nav">
             <li {% if request.endpoint == 'home' %} class="active" {% endif %}><a href="{{ url_for('home') }}">Home</a></li>
             <li {% if request.endpoint == 'about' %} class="active" {% endif %}><a href="{{ url_for('about') }}">About</a></li>
-            <li {% if request.endpoint == 'graph' %} class="active" {% endif %}><a href="{{ url_for('Graph') }}">Graph</a></li>
+            <li {% if request.endpoint == 'graph' %} class="active" {% endif %}><a href="{{ url_for('graph') }}">Graph</a></li>
         </div><!--/.nav-collapse -->
       </div>
     </div>
