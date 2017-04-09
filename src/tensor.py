@@ -15,18 +15,15 @@ def train(data):
 	# loss
 	loss = tf.reduce_sum(tf.square(polynomial_model - y)) # sum of the squares
 	# optimizer
-	optimizer = tf.train.GradientDescentOptimizer(0.000000001)
+	optimizer = tf.train.GradientDescentOptimizer(0.00000000000001)
 	train = optimizer.minimize(loss)
 	# training data
 	for state in data.keys():
 		x_train = []
 		y_train = []
 		for yearData in data[state]:
-			print(yearData)
 			x_train.append(yearData[1])
 			y_train.append(yearData[2])
-		print(x_train)
-		print(y_train)
 		# training loop
 		init = tf.global_variables_initializer()
 		sess = tf.Session()
@@ -36,7 +33,7 @@ def train(data):
 			
 		# evaluate training accuracy
 		curr_a, curr_b, curr_c, curr_Z, curr_loss  = sess.run([a, b, c, Z, loss], {x:x_train, y:y_train})
-		print("a: %s b: %s c: %s Z: %s loss: %s"%(curr_a, curr_b, curr_c, curr_Z, curr_loss))
+		print("%s: a: %s b: %s c: %s Z: %s loss: %s"%(state, curr_a, curr_b, curr_c, curr_Z, curr_loss))
 		result[state] = [curr_a, curr_b, curr_c, curr_Z]
 	return result
 
