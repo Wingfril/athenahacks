@@ -8,4 +8,5 @@ https://www.dropbox.com/s/p5kyg7dv2ik4t7g/athenahacks.zip?dl=0
 Running the html:
 
 cd into GeoParser
+
 ./manage.py runserver
