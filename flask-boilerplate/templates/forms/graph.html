@@ -1,0 +1,9 @@
+{% extends 'layouts/form.html' %}
+{% block title %}Login{% endblock %}
+{% block content %}
+  <form method="post" class="form">
+    <h3 class="form-heading">Enter Temperature<a href="{{ url_for('home') }}" title="Back to homepage"><i class="fa fa-home pull-right"></i></a></h3>
+    {{ form.temp(class_ = 'form-control first-input', placeholder = form.temp.label.text, required = true, autofocus = true) }}
+    <input type="submit" value="Submit" class="btn btn-primary btn-lg btn-block" disabled>
+  </form>
+{% endblock %}
