@@ -4,13 +4,13 @@ import plotly.offline as py
 import plotly.graph_objs as go
 
 # Display: call this function to graph the whole thing
-def display(data):
+def display(data, temp):
     # Data must be a dictionary where the keys are state
     # abbreviations and values are populations.
     for stat in data.values:
         data[col] = data[col].astype(str)
 
-    scl = [[0.0, 'rgb(229,255,204)'],[0.2, 'rgb(153,255,153)'],\
+    scl = [[0.0, 'rgb(255,255,255)'], [0.1, 'rgb(229,255,204)'],[0.2, 'rgb(153,255,153)'],\
             [0.4, 'rgb(188,255,0)'], [0.6, 'rgb(102,204,0)'],[0.8, 'rgb(0,153,76)'],\
             [1.0, 'rgb(0,102,51)']]
     text = []
@@ -31,9 +31,9 @@ def display(data):
                 width = 2
             ) ),
         colorbar = dict(
-            title = "Bee Population")
+            title = "Bee Population"),
+            sliders = sliders
         ) ]
-
     layout = dict(
         title = 'Bee Population',
         geo = dict(
@@ -46,10 +46,5 @@ def display(data):
     fig = dict(data=data, layout=layout)
     py.plot(fig)
 
-def graph():
-    pass
-
-def update():
-    pass
 
 display()
