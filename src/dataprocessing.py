@@ -10,8 +10,8 @@ def makeDictionary():
 	data = {}
 	fullToAbbr = {}
 	list_of_states = []
-	states = open("../data/Abbreviated states.txt", 'r')
-	states2 = open("../data/States full name.txt", 'r')
+	states = open("data/Abbreviated states.txt", 'r')
+	states2 = open("data/States full name.txt", 'r')
 	for line in states:
 		data[line[:-1]] = []
 		list_of_states.append(line[:-1])
@@ -21,7 +21,7 @@ def makeDictionary():
 	states2.close()
 
 	for state in list_of_states:
-		state_data = open('../data/' + state + '.txt', 'r')
+		state_data = open('data/' + state + '.txt', 'r')
 		for line in state_data:
 			if "Date" in line:
 				break
@@ -30,11 +30,10 @@ def makeDictionary():
 			data[state][-1][0] = data[state][-1][0][:-2]
 			data[state][-1][1] = float(data[state][-1][1])
 			data[state][-1][2] = 'no data'
-			
 
 	i = 0
 	while i + 2008 < 2018:
-		bee_data = open('../data/' + str(i + 2008) + '.txt', 'r')
+		bee_data = open('data/' + str(i + 2008) + '.txt', 'r')
 		for line in bee_data:
 			if ("1,000 Dollars" in line) or ("1,000 dollars" in line):
 				bee_data.readline()
@@ -59,7 +58,13 @@ def makeDictionary():
 				continue
 		i += 1
 		bee_data.close()
-	display(data)
-	return data
 
-if __name__ == '__main__': makeDictionary()
+	for state in data.keys():
+		index = 0
+		while (index < len(data[state])):
+			yearData = data[state][index]
+			if yearData[2] == 'no data':
+				del data[state][index]
+			else:
+				index += 1
+	return data

@@ -44,7 +44,5 @@ def display(data, temp):
              )
 
     fig = dict(data=data, layout=layout)
-    py.plot(fig)
-
-
-display()
+    div = py.plot(figure, auto_open=False, output_type='div')
+    return div
