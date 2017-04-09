@@ -1,8 +1,13 @@
 import dataprocessing
 import tensor
 
-def main():
+def init():
 	data = dataprocessing.makeDictionary()
-	tensor.train(data)
+	eqs = tensor.train(data)
+	return eqs
 
-if __name__=='__main__': main()
+def compute(temp, eqs):
+	result = {}
+	for state in eqs.keys():
+		result[state] = tensor.evaluate(temp, eqs[state])
+	return result

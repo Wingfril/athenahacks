@@ -25,12 +25,12 @@ def train(data):
 			x_train.append(yearData[1])
 			y_train.append(yearData[2])
 		# training loop
-		init = tf.global_variables_initializer()
+		init = tf.initialize_all_variables()
 		sess = tf.Session()
 		sess.run(init) # reset values to wrong
 		for i in range(1000):
 			sess.run(train, {x:x_train, y:y_train})
-			
+
 		# evaluate training accuracy
 		curr_a, curr_b, curr_c, curr_Z, curr_loss  = sess.run([a, b, c, Z, loss], {x:x_train, y:y_train})
 		print("%s: a: %s b: %s c: %s Z: %s loss: %s"%(state, curr_a, curr_b, curr_c, curr_Z, curr_loss))
